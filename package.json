@@ -6,7 +6,7 @@
     "start": "node_modules/react-native/packager/packager.sh"
   },
   "dependencies": {
-    "react-native": "^0.11.2",
+    "react-native": "git+ssh://git@github.com:alinz/react-native.git#v0.11.0-stable-redux",
     "react-native-side-menu": "^0.14.0",
     "react-redux": "^3.0.0",
     "redux": "^3.0.2",
